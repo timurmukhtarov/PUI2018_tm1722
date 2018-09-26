@@ -42,6 +42,7 @@ busses of a given line.
 Once again, Manrique Vargas pulled through and helped me with the for loop to get the data in the proper format 
 from the JSON file.
 
-_**update: I was just informed by Manrique that he himself got a lot of help from Tanya Nabila
-another update Amber (Yushi) Chen walked me through her solution (and she did it diferently!) 
+_**update: I was just informed by Manrique that he himself got a lot of help from Tanya Nabila**_
+
+_**another update: Amber (Yushi) Chen walked me through her solution (and she did it diferently!) 
 which helped me conceptualize this even better! Thanks, everyone!**_

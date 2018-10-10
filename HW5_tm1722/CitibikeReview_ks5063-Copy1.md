@@ -5,7 +5,8 @@ Idea: Young people are more likely to be subscribers of Citibike
 
 * Hypotheses are presented quite well in both words and formulas, but there is a room for imporvement. 
 
-* The null hypothesis can be considered mathematically testable since it relies on what we can measure precisely (average ages for two samples -- users who are subscribers and users who are customers). To improve, I would also indicate a specific timeframe for analysis (the author uses June 2018 later on) and specify the significance level of \alpha = 0.05 right in the words formulation.
+* The null hypothesis can be considered mathematically testable since it relies on what we can measure precisely (average ages for two samples -- users who are subscribers and users who are customers). To improve, I would also indicate a specific timeframe for analysis (the author uses June 2018 later on) and specify the significance level of 
+\alpha = 0.05 right in the words formulation.
 
 * The alternative hypothesis correctly states what the author's Idea in testable and mathematical terms.
 

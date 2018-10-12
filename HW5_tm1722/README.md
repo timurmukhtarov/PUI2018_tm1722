@@ -35,7 +35,9 @@ Correlation | 2, Mimicry Score, Assesed personality scale | ordinal, interval | 
 Logistic Regression | 1, Community Size (number of individuals) | interval | Critical level of scalar stress (Possible values: 1 = presence of colony fissioning, 0 = absence of colony fissioning)| categorical (binary) | (none) | (none) |  Can we build a statistical model to prove Johnson's scalar stress theory, describing the mechanics of the increase in in-group conflictuality that parallels the increase in groups’ size? Can we predict the critical level of scalar stress using group size? | H0: there is no relationship between the group size and the critical level of scalar stress | 0.05 | [Modeling Group Size and Scalar Stress by Logistic Regression from an Archaeological Perspective](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0091510&type=printable) |
 
 t-test screenshot: 
-![t-test](Screenshots/1.png){:height="50%" width="50%"}
+<img src="https://raw.githubusercontent.com/timurmukhtarov/PUI2018_tm1722/master/HW5_tm1722/Screenshots/1.png" width="400" >
+
+![t-test](Screenshots/1.png)
 
 Correl
 ![Alt text](Screenshots/2.png)

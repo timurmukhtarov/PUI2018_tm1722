@@ -1,27 +1,29 @@
 `Statement: I am using the 72-hour late extension for this homework`
 
-Assignment 1: 
+__Assignment 1:__ 
 Here, I needed to review my classmate's hypotheses on Citibike data, propose a statistical test, and submit a pull request to their original repository. 
 
-A copy of the .md file I pushed to Karan's repo is in this folder and is called HW5_Assignment1_tm1722.md
+A copy of the .md file I pushed to Karan's repo is in this folder and is called __HW5_Assignment1_tm1722.md__
 
 Here is the screenshot of my pull request: 
-![Alt text](Assignment_1_screenshot.png)
+![Alt text](Screenshots/Assignment_1_screenshot.png)
 
 
-Assignment 2: 
-Here, I needed to explore scientific papers and fill out a table about statistical analyses. The table is at the end of this file along with screenshots from each paper. 
+__Assignment 2:__ 
+Here, I needed to explore scientific papers and fill out a table about statistical analyses. __The table is at the end of this file__ along with screenshots from each paper. 
 
 
-Assignment 3: 
+__Assignment 3:__
 Here, I needed to reproduce the analysis of the Hard to Employ program NY by filling out and modifying a skeleton notebook provided. 
 
-Can be found in HW5_Assignment3_tm177.ipyn file
+Can be found in __HW5_Assignment3_tm177.ipynb__ file
 
 
-Assignment 4: 
+__Assignment 4:__
 
-Here, I needed to use the scipy package with CitiBiki data and perform K-S Two-Sample test and two samples for correlation (Pearson's and Spearman's)
+Here, I needed to use the scipy package with CitiBiki data and perform K-S Two-Sample test and two samples for correlation (Pearson's and Spearman's).
+
+Can be found in __HW5_Assignment4_tm177.ipynb__ file
 
 
 | **Statistical Analyses** |  **IV(s)**  |  **IV type(s)** |  **DV(s)**  |  **DV type(s)**  |  **Control Var** | **Control Var type**  | **Question to be answered** | **_H0_** | **alpha** | **link to paper**| 

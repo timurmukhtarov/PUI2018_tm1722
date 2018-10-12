@@ -1,4 +1,10 @@
-`Statement: I am using the 72-hour late extension for this homework`
+`Statement: I am using the 72-hour late extension for this homework
+            OG deadline: Tue, Oct 9 11:59 pm
+            ext deadline: Fri, Oct 12 11:59 pm
+            submitted: Fri, Oct. 12 around 7:45 pm
+`
+
+__*Worked on everything by myself this time*__
 
 __Assignment 1:__ 
 Here, I needed to review my classmate's hypotheses on Citibike data, propose a statistical test, and submit a pull request to their original repository. 
@@ -37,8 +43,6 @@ Logistic Regression | 1, Community Size (number of individuals) | interval | Cri
 t-test screenshot: 
 
 <img src="https://raw.githubusercontent.com/timurmukhtarov/PUI2018_tm1722/master/HW5_tm1722/Screenshots/1.png" width="600" >
-
-![t-test](Screenshots/1.png)
 
 
 

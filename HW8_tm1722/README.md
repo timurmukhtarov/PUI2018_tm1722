@@ -4,7 +4,7 @@ __Assignment 1:__
 Here, I needed to produce any urban-related data visualization. Here's mine
 
 Here is the screenshot of my pull request: 
-![Alt text](screenShots/avg_hass_avo_prices.png.png)
+![Alt text](screenShots/avg_hass_avo_prices.png)
 
 The plot above shows average avocado prices (year-to-date) of Hass avocados in five cities. The lower prices in Los Angeles might be possibly contributed to lower shipping costs (since Hass avocados are grown in California and in Southern states)
 

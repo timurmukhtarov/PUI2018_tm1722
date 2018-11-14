@@ -2,7 +2,7 @@
 
 ## Plot 1
 
-![Create test.csv](HW-9-3.png)
+![Alt text](screenShots/avg_hass_avo_prices.png)
 
 The plot shows the average sale price of Hass avocado per unit in 5 cities in 2018. The axes clearly mention the quantities being visualized. 
 The plot reproduces the data visually and makes it easy to compare the sale price between cities. Colors have been chosen appropriately and the

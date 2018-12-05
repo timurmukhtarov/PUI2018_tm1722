@@ -13,7 +13,7 @@
 ![Alt text](screenShots/avg_hass_avo_prices.png)
 
 
-
+My reviewers thought my graph was fair and clear. Based on their suggestions, I removed the gridlines to impore the graph. 
 
 
 
